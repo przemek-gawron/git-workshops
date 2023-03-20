@@ -31,20 +31,20 @@
 - zaobserwować zmiany w git GUI<br>
 
 #### :twisted_rightwards_arrows: 5. Merge branchy, otwieranie PR, review kodu
-#### :pencil: Ćwiczenie 2 - Łączenie nowych zmian (merge) 
+#### :pencil: Ćwiczenie 3 - Łączenie nowych zmian (merge) 
 - działając na repozytorium z poprzedniego zadania otworzyć nowy branch i dodać plik README.md<br>
 - otworzyć i opisać PR, dodanie revierów wśród uczestników warsztatów i merge po otrzymaniu approve<br>
 
 
 #### :crossed_swords: 6. Konflikt podczas PR, i jak się go rozwiązuje
-#### :pencil: Ćwiczenie 3 - rozwiązywanie konfliktów 
+#### :pencil: Ćwiczenie 4 - rozwiązywanie konfliktów 
 - pobrać repozytorium https://github.com/przemek-gawron/git-workshops.git <br>
 - przełączyć się na branch *conflict* i dodać kod i spróbować zrobić merge z branchem *master* <br>
 - rozwiazać konflikty w VS Code i zrobić merge do głównego brancha <br>
 
 
 #### :leftwards_arrow_with_hook: 7. Dlaczego możemy chcieć cofnąć się do poprzedniej wersji kodu
-#### :pencil: Ćwiczenie 4 - powrót do poprzedniej wersji kodu (revert/reset) 
+#### :pencil: Ćwiczenie 5 - powrót do poprzedniej wersji kodu (revert/reset) 
 - przełączyć się na branch *revert* z repozytorium https://github.com/przemek-gawron/git-workshops.git<br>
 - otworzyć *index.html* w przeglądarce i zaobserwować błąd<br>
 - sprawdzić numery commitów za pomocą *git log* i cofnąć do momentu kiedy strona będzie działać poprawnie <br>
