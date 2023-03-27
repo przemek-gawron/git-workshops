@@ -11,7 +11,6 @@
 - założenie konta na github<br>
 
 #### :file_folder: 3. Zakładanie repozytorium na github 
-- używanie terminala i nawigacja do folderu, w którym chcemy załoyć repozytorium  
 - założenie nowego repozytorium na github 
 - inicjalizowanie repozytorium lokalnego
 - dodanie remote do lokalnego repozytorium 
